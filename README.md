@@ -18,7 +18,7 @@ To get started, follow the instructions below:
 2. **Navigate to the Project Directory:**
 
     ```bash
-    cd web-scraping-projects
+    cd web_scraping_python_projects
     ```
 
 3. **Install Dependencies:**
