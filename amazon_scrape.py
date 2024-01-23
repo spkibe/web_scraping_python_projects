@@ -3,7 +3,7 @@ import requests
 import re
 import pandas as pd
 
-agent = "Mozilla/5.0 (X11; Linux x86_64)........XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+agent = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 
 # Headers for request
 HEADERS = ({'User-Agent' : agent, 'Accept-Language': 'en-US, en;q=0.5'})
