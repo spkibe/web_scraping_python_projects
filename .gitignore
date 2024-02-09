@@ -142,3 +142,11 @@ cython_debug/
 *.csv
 
 main.py
+
+Revenue*.ipynb
+premium*.ipynb
+fetch*.ipynb
+~lock.*
+.~lock*.csv#
+*.deb
+vanguard_Politics
